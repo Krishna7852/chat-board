@@ -2,6 +2,8 @@
 
 ### To run development server
 
+- Clone [Repo](https://github.com/Krishna7852/chat-board.git)
+
 - npm install 
 
 - npm run dev
